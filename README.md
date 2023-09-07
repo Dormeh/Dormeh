@@ -2,8 +2,8 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="180" alt="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dormeh&layout=compact&theme=transparent" height="150" alt="">
-<img src="https://github-readme-stats.vercel.app/api?username=Dormeh&theme=transparent&show_icons=true" height="150" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dormeh&layout=donut&theme=transparent&hide_border=true" height="150" alt="">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dormeh&theme=transparent&show_icons=true" height="150" alt="">
 </div>
 
 ---
@@ -35,7 +35,7 @@
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" height="400" alt="">
+<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" height="350" alt="">
 </div>
 
 ---
@@ -44,9 +44,12 @@
 
 <p align="center">
 <a href="https://github.com/FancyCodersYAP/UNO-fancy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FancyCodersYAP&repo=UNO-fancy&show_owner=false&theme=transparent" height="110">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FancyCodersYAP&repo=UNO-fancy&show_owner=false&theme=transparent&hide_border=true" width="50%">
 </a>
 <a href="https://github.com/FancyCodersYAP/UNO-fancy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dormeh&repo=middle.messenger.praktikum.yandex&show_owner=false&theme=transparent" height="110">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dormeh&repo=middle.messenger.praktikum.yandex&show_owner=false&theme=transparent&hide_border=true" width="50%">
 </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=Dormeh)
+
