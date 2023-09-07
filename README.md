@@ -7,6 +7,8 @@
 
 [//]: # (![willianrod's wakatime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=Dormeh&#41;)
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 ---
 
 ### Skills
