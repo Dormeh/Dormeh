@@ -50,7 +50,7 @@
 
 [//]: # (</p>)
 
-| [![Opengram](https://github-readme-stats.vercel.app/api/pin/?username=FancyCodersYAP&repo=UNO-fancy&show_owner=false&theme=transparent&hide_border=true)](https://github.com/opengramjs/Opengram) | [![getSMS](https://github-readme-stats.vercel.app/api/pin/?username=Dormeh&repo=middle.messenger.praktikum.yandex&show_owner=false&theme=transparent&hide_border=true)](https://github.com/viiprogrammer/getSMS) |
+| [![UNO-fancy](https://github-readme-stats.vercel.app/api/pin/?username=FancyCodersYAP&repo=UNO-fancy&show_owner=false&theme=transparent&hide_border=true)](https://github.com/FancyCodersYAP/UNO-fancy) | [![messenger](https://github-readme-stats.vercel.app/api/pin/?username=Dormeh&repo=middle.messenger.praktikum.yandex&show_owner=false&theme=transparent&hide_border=true)](https://github.com/FancyCodersYAP/UNO-fancy) |
 | ------------- | ------------- |
 
 
