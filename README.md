@@ -2,15 +2,15 @@
 ![](https://komarev.com/ghpvc/?username=Dormeh)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="190" alt="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dormeh&layout=compact&theme=transparent&hide_border=true&hide=html&hide_progress=" height="200" alt="">
-<img src="https://github-readme-stats.vercel.app/api?username=dormeh&theme=transparent&hide=stars&hide_rank=true&hide_border=true" height="200" alt="">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="180" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dormeh&layout=compact&theme=transparent&hide_border=true&hide=html&hide_progress=" height="190" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=dormeh&theme=transparent&hide=stars&hide_rank=true&hide_border=true" height="190" alt="">
 </div>
 
 
 ---
 
-#### 📌 Skills
+### 📌 Skills
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" alt="">
@@ -25,7 +25,7 @@
 </div>
 
 
-#### 🔧 Other Tools
+### 🔧 Other Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
