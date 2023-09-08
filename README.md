@@ -2,9 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=Dormeh)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="180" alt="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dormeh&layout=compact&theme=transparent&hide_border=true&hide=html&hide_progress=" height="190" alt="">
-<img src="https://github-readme-stats.vercel.app/api?username=dormeh&theme=transparent&hide=stars&hide_rank=true&hide_border=true" height="190" alt="">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="170" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dormeh&layout=compact&theme=transparent&hide_border=true&hide=html&hide_progress=" height="180" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=dormeh&theme=transparent&hide=stars&hide_rank=true&hide_border=true" height="180" alt="">
 </div>
 
 
