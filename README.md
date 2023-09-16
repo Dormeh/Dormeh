@@ -35,7 +35,7 @@
 
 ---
 
-### 👨🏽‍💻 My last projects:
+### 👨🏽‍💻 My latest projects:
 
 [//]: # (<p align="center">)
 
