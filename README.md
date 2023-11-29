@@ -1,6 +1,6 @@
 [![MasterHead](/assets/images/Head_banner_5.png)](https://github.com/Dormeh)
 ![](https://komarev.com/ghpvc/?username=Dormeh)
-![](https://www.codewars.com/users/Dormeh/badges/micro)
+[![Codewars Badge](https://www.codewars.com/users/Dormeh/badges/micro)](https://www.codewars.com/users/Dormeh)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="170" alt="">
